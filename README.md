@@ -61,9 +61,9 @@ Signaturely представляет собой онлайн-платформу,
 ## Баг-репорты
 
 Примеры баг-репортов других работ:
-![Баг-репорт](https://photo-screen.ru/i/7Y4YGkoaI)
-![Баг-репорт](https://photo-screen.ru/i/z5jU9NnTv)
-![Баг-репорт](https://photo-screen.ru/i/269vz2U1x)
+![Баг-репорт](https://github.com/KAKnetuz/Signaturely/blob/main/2.jpg)
+![Баг-репорт](https://github.com/KAKnetuz/Signaturely/blob/main/3.jpg)
+![Баг-репорт](https://github.com/KAKnetuz/Signaturely/blob/main/4.jpg)
 
 ***
 </details>
